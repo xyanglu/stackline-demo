@@ -1,0 +1,11 @@
+.banner {
+  height: 6vw;
+  background-color: rgba(5, 40, 73, 255);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1000;
+}
